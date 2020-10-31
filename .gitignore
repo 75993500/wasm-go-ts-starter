@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+_SpecRunner.html
+test/
+.vscode/
+dev*.html
+npm-debug.log
+
+dist/
+node_modules/
+commonjs/
+es/
+.history/
